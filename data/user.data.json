@@ -1,0 +1,33 @@
+[
+  {
+    "email": "hasib143sl@gmail.com",
+    "password": "HasiB@62",
+    "confirmPassword": "HasiB@62",
+    "role": "admin",
+    "fullName": "Hasibul Islam",
+    "contactNumber": "01906123456"
+  },
+  {
+    "email": "sadiadhira01@gmail.com",
+    "password": "SadiA@01",
+    "confirmPassword": "SadiA@01",
+    "role": "hiring-manager",
+    "fullName": "Hasibul Islam",
+    "contactNumber": "01309123456"
+  },
+  {
+    "email": "akternipa941@gmail.com",
+    "password": "NipAa@94",
+    "confirmPassword": "NipAa@94",
+    "fullName": "Nipa Akter",
+    "contactNumber": "01417123456"
+  },
+  {
+    "email": "admin@gmail.com",
+    "password": "AdmiN@01",
+    "confirmPassword": "AdmiN@01",
+    "role": "admin",
+    "fullName": "Programming Hero",
+    "contactNumber": "01309123456"
+  }
+]
